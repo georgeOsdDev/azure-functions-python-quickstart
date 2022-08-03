@@ -9,7 +9,7 @@
     },
     "logLevel": {
       "default": "Information",
-      "Microsoft.Azure.WebJobs.Hosting.JobHostService": "Error"
+      "Microsoft.Azure": "Error"
     }
   },
   "extensionBundle": {
