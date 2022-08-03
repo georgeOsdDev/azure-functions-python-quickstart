@@ -6,6 +6,10 @@
         "isEnabled": true,
         "excludedTypes": "Request"
       }
+    },
+    "logLevel": {
+      "default": "Information",
+      "Microsoft.Azure.WebJobs.Hosting.JobHostService": "Error"
     }
   },
   "extensionBundle": {
